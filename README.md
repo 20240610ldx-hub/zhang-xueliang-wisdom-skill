@@ -1,5 +1,7 @@
 # zhang-xueliang-wisdom-skill
 
+[English README](README_EN.md)
+
 张学良（少帅）智慧 skill 的公开归档仓库。
 
 这个仓库保存的是一个人物智慧 skill 的公开版本，以及一份用于解释取舍和风险的研究注释层。它不是人物崇拜项目，不是历史定案，也不是猎奇材料库。
@@ -56,4 +58,4 @@ https://claude.ai/share/86f91938-a3aa-4a39-a654-fac344f1746d
 
 ## License
 
-No license has been selected yet. All rights are reserved unless a license is added later.
+本仓库采用 MIT License。详见 [LICENSE](LICENSE)。
